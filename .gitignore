@@ -1,0 +1,10 @@
+# Node
+node_modules
+# Mac
+.DS_Store
+# Expo
+.expo
+# VS Code
+.vscode
+# misc.
+.env
